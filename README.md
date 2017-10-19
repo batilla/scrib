@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[testing mardown](https://github.com/batilla/scrib/blob/master/testing_markup.md)
+[testing mardown](testing_markup.md)
 
 You can use the [editor on GitHub](https://github.com/batilla/scrib/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
